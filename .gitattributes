@@ -1,3 +1,0 @@
-*.css linguist-language=CSS
-*.js linguist-language=JavaScript
-*.min.js linguist-vendored
